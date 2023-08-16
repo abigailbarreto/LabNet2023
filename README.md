@@ -1,2 +1,2 @@
-# LabNet2023
+# labnet2023
 Inicio de proyecto
