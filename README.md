@@ -1,2 +1,2 @@
-# Proyecto-08-2023
+# LabNet2023
 Inicio de proyecto
